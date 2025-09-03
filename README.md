@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Elliottikkss/Elliottikkss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Welcome to my GitHub Profile!
 
-Here are some ideas to get you started:
+I'm Elliottikkss.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> **"I cannot code, but I still code (or whatever)."**  
+> Maybe I'm a vibe coder—just going with the flow.
+
+---
+
+### About Me
+
+- 🧑‍💻 My main language is **Python**, but I like to experiment with:
+  - C#
+  - C++
+  - JavaScript
+  - C (for now)
+- 🤖 I enjoy AI, machine learning, and tech experiments.
+- 🛠️ Most of my repos are me learning, tinkering, or trying new things.  
+  Sometimes stuff works. Sometimes it doesn't. That's part of the vibe.
+
+---
+
+### What you'll find here
+
+- Random Python scripts, game prototypes, and experiments
+- AI projects and quirky ideas
+- Both successful builds and total failures—both are welcome!
+
+---
+
+> Coding isn't about perfection—it's about the journey and the vibe.
+
+---
+
+**P.S.**  
+I'm an introvert, so don't expect a lot of chatting here.
